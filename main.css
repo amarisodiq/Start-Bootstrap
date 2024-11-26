@@ -11,3 +11,29 @@
     height:3px;
     background-color: white;
 }
+
+.copyright {
+    background-color: #1a252f;
+}
+
+.footer {
+    padding-top: 5rem;
+    background-color: #2c3e50;
+    color: #fff;
+}
+
+/* .icons {
+    padding: 0.5rem;
+    border: #fff solid;
+    border-radius: 50%;
+} */
+
+.btn-social {
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+}
