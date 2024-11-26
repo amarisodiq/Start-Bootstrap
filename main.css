@@ -1,0 +1,13 @@
+
+.hero-img {
+    width: 15rem;
+}
+.hero-txt {
+    font-size: 4rem;
+}
+
+.line-divider {
+    width: 8rem;
+    height:3px;
+    background-color: white;
+}
